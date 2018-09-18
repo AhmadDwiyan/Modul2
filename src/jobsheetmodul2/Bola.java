@@ -33,7 +33,7 @@ public double showVolume(){
 }
 
 public void cetak () {
- System.out.println("program ");
+ System.out.println("Program untuk Bangun Ruang Bola ");
  System.out.println("Nilai jari - jari : " + jarijari);
  System.out.println("Nilai diameter : " + showDiameter());
  System.out.println("Luas permukaan bola : " +showLuasPermukaan());
